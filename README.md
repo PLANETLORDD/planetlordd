@@ -40,10 +40,12 @@ $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{
   </details>
       </th>
    </table>
+ 
+ㅤ
 
 ㅤ
 
-<table align="center">
+<div align="center">
     <tr></tr>
       <th>
    <details>
@@ -54,4 +56,4 @@ hhiiihihi wip hold
      
   </details>
       </th>
-   </table>
+</div>
