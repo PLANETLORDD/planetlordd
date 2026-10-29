@@ -54,8 +54,10 @@ $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{
       <th>
    <details>
         <summary>my mcyt chibi sprites</summary>
+     <img src="https://i.ibb.co/j11cyKL/image-2026-10-29-152052986.png" width="200px"> <img src="https://i.ibb.co/q3vhp4HJ/image-2026-10-29-152217873.png" width="200px"> <img src="https://i.ibb.co/QFqy9m4x/image-2026-10-29-152317455.png" width="200px"> <img src="https://i.ibb.co/gFXpqK83/image-2026-10-29-152340091.png" width="200px"> <img src="https://i.ibb.co/5XS1D6JB/image-2026-10-29-152403825.png" width="200px"> <img src="https://i.ibb.co/0yNJD8XT/image-2026-10-29-152425572.png" width="200px"> <img src="https://i.ibb.co/hFb021Z3/image-2026-10-29-152443747.png" width="200px">
      
-hhiiihihi wip hold
+request me other mcyt to make on my ata !!!!
+
 
      
   </details>
