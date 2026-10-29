@@ -40,3 +40,18 @@ $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{
   </details>
       </th>
    </table>
+
+ㅤ
+
+<table align="center">
+    <tr></tr>
+      <th>
+   <details>
+        <summary>my mcyt chibi sprites</summary>
+     
+hhiiihihi wip hold
+
+     
+  </details>
+      </th>
+   </table>
